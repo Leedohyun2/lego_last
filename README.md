@@ -20,6 +20,11 @@
     (y/N) n
 9. npm run serve
 
+# 배포 방법
+1. npm install firebase
+3. firebase login
+4. npm install -g firebase-tools
+
 # 설치 옵션 
 firebase,
 vue-fire,
