@@ -460,6 +460,7 @@ export default {
   border-radius: 20px;
   padding: 20px;
   overflow: scroll;
+  overscroll-behavior: contain;
   z-index: 10000;
 }
 
